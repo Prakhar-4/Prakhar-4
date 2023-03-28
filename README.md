@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning App development and trying to improve my skills on Back-end Development.<br>I am looking to collaborate on projects related to App Development ,Back-end Development.<br>I am looking for help with learning AI/ML.<br><br>
+•I am currently learning App development and trying to improve my skills on Back-end Development.<br>•I am looking to collaborate on projects related to App Development ,Back-end Development.<br>• am looking for help with learning AI/ML.<br><br>
 
 
 ## 🌐 Socials:
