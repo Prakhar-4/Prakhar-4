@@ -1,5 +1,5 @@
 # 💫 About Me:
-• Currently Building: An Intelligent Car Consultancy Platform<br>• Interested in Collaborating On: Web Development, Machine Learning, AI, Big Data, and Cloud Services<br>• Looking for Help With: Front-end Development<br>• Currently Exploring: Machine Learning and Cloud Architecture (AWS/GCP/Azure)
+• Currently Building: VariantWise: An Intelligent Car Consultancy Platform<br>• Interested in Collaborating On: Web Development, Machine Learning, AI, Big Data, and Cloud Services<br>• Looking for Help With: Front-end Development<br>• Currently Exploring: Machine Learning and Cloud Architecture (AWS/GCP/Azure)
 
 
 ## 🌐 Socials:
